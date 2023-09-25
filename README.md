@@ -8,13 +8,12 @@
 -To conduct a cluster analysis using k-means to identify groupings in the data.
 -To illustrate total rent in Germany using geographical visualizations.
 
-data preparation for visualization in Tableau. 
 ## DATA SET
 Data set is taken from [Kaggle](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany). Data set contains information about types of properties, living space, condition, year of construction and more in Germany.
 ## FOLDERS
-Project Management: Contains the project brief data.
-Scripts: Contains all the Python coding involved for the entire analysis process Analysis.
-Visualization: Contains the visualizations used for developing insights.
+-Project Management: Contains the project brief data.
+-Scripts: Contains all the Python coding involved for the entire analysis process Analysis.
+-Visualization: Contains the visualizations used for developing insights.
 ## VISUALIZATIONS:
 [Tableau Storyboard](https://public.tableau.com/app/profile/kamini.manwal/viz/RentalPropertyinGermany/Story1)
 
