@@ -3,17 +3,17 @@
 
 ## OVERVIEW
 - Performed data wrangling and consistency checks to remove duplicates, handling missing values, dropping unnecssary columns, renaming columns and changing data types.
--Conduct an EDA and describe patterns in the data, such as establish correlations and decide which of them to explore further.
--To formulate a hypothesis and conduct regression analysis to test the model.
--To conduct a cluster analysis using k-means to identify groupings in the data.
--To illustrate total rent in Germany using geographical visualizations.
+- Conduct an EDA and describe patterns in the data, such as establish correlations and decide which of them to explore further.
+- To formulate a hypothesis and conduct regression analysis to test the model.
+- To conduct a cluster analysis using k-means to identify groupings in the data.
+- To illustrate total rent in Germany using geographical visualizations.
 
 ## DATA SET
 Data set is taken from [Kaggle](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany). Data set contains information about types of properties, living space, condition, year of construction and more in Germany.
 ## FOLDERS
--Project Management: Contains the project brief data.
--Scripts: Contains all the Python coding involved for the entire analysis process Analysis.
--Visualization: Contains the visualizations used for developing insights.
+- Project Management: Contains the project brief data.
+- Scripts: Contains all the Python coding involved for the entire analysis process Analysis.
+- Visualization: Contains the visualizations used for developing insights.
 ## VISUALIZATIONS:
 [Tableau Storyboard](https://public.tableau.com/app/profile/kamini.manwal/viz/RentalPropertyinGermany/Story1)
 
