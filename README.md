@@ -14,6 +14,8 @@ Data set is taken from [Kaggle](https://www.kaggle.com/datasets/corrieaar/apartm
 - Project Management: Contains the project brief data.
 - Scripts: Contains all the Python coding involved for the entire analysis process Analysis.
 - Visualization: Contains the visualizations used for developing insights.
+## TOOLS
+Python, jupitor, anaconda, pandas, Numpy, Seaborn, matplotlib, Tableau, statsmodels, folium
 ## VISUALIZATIONS:
 [Tableau Storyboard](https://public.tableau.com/app/profile/kamini.manwal/viz/RentalPropertyinGermany/Story1)
 
